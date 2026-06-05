@@ -37,7 +37,6 @@ Modern Vue 3 frontend consuming REST APIs with Pinia and TypeScript.
 ✅ Responsive design, mobile-first
 Stack: Vue 3 · TypeScript · Pinia · Axios · Vite
 💼 Experience
-Table
 Company	Role	Period	Stack
 StarkOMS (Chile)	FullStack Developer	2022–Present	Node.js, Vue, Angular, Laravel, Python, Docker
 Fullkom (Chile)	FullStack Developer	2020–2022	Node.js, Vue, Angular, Laravel, e-commerce
