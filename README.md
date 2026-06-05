@@ -17,10 +17,14 @@ Currently working remotely with teams in Chile and Argentina, focused on perform
 📫 Reach me: rodolfo282@gmail.com
 ⚡ Fun fact: I'm bilingual Spanish/Portuguese and fluent in technical English
 🛠️ Tech Stack
-Backend: Node.js · Express · NestJS · Python · Laravel · C# · REST APIs · GraphQL · WebSockets
-Frontend: Angular · Vue.js · React · TypeScript · JavaScript · HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS
-Databases: PostgreSQL · MySQL · MongoDB · Redis · SQL Server · Oracle · Firebase
-DevOps & Tools: Docker · Git · GitHub Actions · CI/CD · Jira · Confluence · Linux · Nginx
+Backend
+Node.js · Express · NestJS · Python · Laravel · PHP · C# · REST APIs · GraphQL · WebSockets
+Frontend
+Angular · Vue.js · React · TypeScript · JavaScript · HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS
+Databases
+PostgreSQL · MySQL · MongoDB · Redis · SQL Server · Oracle · Firebase
+DevOps & Tools
+Docker · Git · GitHub Actions · CI/CD · Jira · Confluence · Linux · Nginx
 📌 Featured Projects
 🔧 node-api-template
 Production-ready Node.js REST API with TypeScript, Express, Docker, and CI/CD.
@@ -37,10 +41,11 @@ Modern Vue 3 frontend consuming REST APIs with Pinia and TypeScript.
 ✅ Responsive design, mobile-first
 Stack: Vue 3 · TypeScript · Pinia · Axios · Vite
 💼 Experience
+Table
 Company	Role	Period	Stack
 StarkOMS (Chile)	FullStack Developer	2022–Present	Node.js, Vue, Angular, Laravel, Python, Docker
 Fullkom (Chile)	FullStack Developer	2020–2022	Node.js, Vue, Angular, Laravel, e-commerce
-FW Software (Argentina)	Analyst Programmer	2015–2020	Node.js, Angular, C#, Python, Financial
+FW Software (Argentina)	Analyst Programmer	2015–2020	Node.js, Angular, C#, Python, PHP, Financial
 Pirámide Technologies (Argentina)	Analyst Programmer	2011–2015	PHP, JavaScript, ASP, MySQL
 📫 Let's Connect
 💼 LinkedIn: linkedin.com/in/rodolfo-daniel-bais
