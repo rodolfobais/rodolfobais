@@ -75,6 +75,19 @@ Modern **Vue 3 frontend** consuming REST APIs with Pinia and TypeScript.
 
 ---
 
+### ⚡ [laravel-api-template](https://github.com/rodolfobais/laravel-api-template)
+
+Minimal **Laravel API** demonstrating RESTful CRUD with Eloquent, validation, and route model binding.
+
+- ✅ Eloquent ORM with relationships and query scopes
+- ✅ Form Request validation with custom rules
+- ✅ Route Model Binding for clean controllers
+- ✅ Database seeders with sample data
+
+**Stack:** Laravel · PHP · Eloquent · SQLite
+
+---
+
 ## 💼 Experience
 
 | Company | Role | Period | Stack |
