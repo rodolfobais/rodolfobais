@@ -66,22 +66,15 @@ Production-ready Node.js REST API with TypeScript, Express, Docker, and CI/CD.
 ✅ JWT authentication, rate limiting, request validation
 ✅ Jest + Supertest with coverage
 ✅ GitHub Actions pipeline (lint → test → build → docker)
-🛠️ Stack: Node.js · Express · TypeScript · Docker · Jest
+Stack: Node.js · Express · TypeScript · Docker · Jest
 🎨 vue-frontend-template
 Modern Vue 3 frontend consuming REST APIs with Pinia and TypeScript.
 ✅ Composition API with <script setup>
 ✅ Pinia store with reactive state and computed getters
 ✅ Full CRUD with filtering and statistics
 ✅ Responsive design, mobile-first
-🛠️ Stack: Vue 3 · TypeScript · Pinia · Axios · Vite
-📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodolfobais&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rodolfo's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfobais&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-💼 Experience Highlights
+Stack: Vue 3 · TypeScript · Pinia · Axios · Vite
+💼 Experience
 Table
 Company	Role	Period	Stack
 StarkOMS (Chile)	FullStack Developer	2022–Present	Node.js, Vue, Angular, Laravel, Python, Docker
