@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Rodolfo Bais</h1>
+<h3 align="center">Senior Full Stack Developer from Buenos Aires, Argentina 🇦🇷</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rodolfo-daniel-bais" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rodolfo282@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+🚀 About Me
+I'm a Senior Full Stack Developer with 10+ years of experience building scalable web applications, REST APIs, and backend solutions across fintech, e-commerce, and corporate sectors.
+Currently working remotely with teams in Chile and Argentina, focused on performance, scalability, and clean architecture.
+🔭 Currently working at StarkOMS (Chile, remote)
+🌱 Learning AI/ML integration and cloud architecture
+💬 Ask me about Node.js, Angular, Vue.js, microservices, or database optimization
+📫 Reach me: rodolfo282@gmail.com
+⚡ Fun fact: I'm bilingual Spanish/Portuguese and fluent in technical English
+🛠️ Tech Stack
+Backend
+ Node.js 
 
-<!--
-**rodolfobais/rodolfobais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Express 
 
-Here are some ideas to get you started:
+ NestJS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Python 
+
+ Laravel 
+
+ C# 
+Frontend
+ Angular 
+
+ Vue.js 
+
+ React 
+
+ TypeScript 
+
+ JavaScript 
+Databases
+ PostgreSQL 
+
+ MySQL 
+
+ MongoDB 
+
+ Redis 
+
+ SQL Server 
+DevOps & Tools
+ Docker 
+
+ Git 
+
+ GitHub Actions 
+
+ Linux 
+
+ Nginx 
+📌 Featured Projects
+🔧 node-api-template
+Production-ready Node.js REST API with TypeScript, Express, Docker, and CI/CD.
+✅ Clean architecture (Controller → Service → Model)
+✅ JWT authentication, rate limiting, request validation
+✅ Jest + Supertest with coverage
+✅ GitHub Actions pipeline (lint → test → build → docker)
+🛠️ Stack: Node.js · Express · TypeScript · Docker · Jest
+🎨 vue-frontend-template
+Modern Vue 3 frontend consuming REST APIs with Pinia and TypeScript.
+✅ Composition API with <script setup>
+✅ Pinia store with reactive state and computed getters
+✅ Full CRUD with filtering and statistics
+✅ Responsive design, mobile-first
+🛠️ Stack: Vue 3 · TypeScript · Pinia · Axios · Vite
+📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodolfobais&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Rodolfo's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfobais&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+💼 Experience Highlights
+Table
+Company	Role	Period	Stack
+StarkOMS (Chile)	FullStack Developer	2022–Present	Node.js, Vue, Angular, Laravel, Python, Docker
+Fullkom (Chile)	FullStack Developer	2020–2022	Node.js, Vue, Angular, Laravel, e-commerce
+FW Software (Argentina)	Analyst Programmer	2015–2020	Node.js, Angular, C#, Python, Financial
+Pirámide Technologies (Argentina)	Analyst Programmer	2011–2015	PHP, JavaScript, ASP, MySQL
+📫 Let's Connect
+💼 LinkedIn: linkedin.com/in/rodolfo-daniel-bais
+📧 Email: rodolfo282@gmail.com
+🐙 GitHub: github.com/rodolfobais
+<p align="center">
+  <i>"Clean code, solid architecture, and continuous improvement."</i>
+</p>
