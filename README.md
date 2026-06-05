@@ -17,48 +17,10 @@ Currently working remotely with teams in Chile and Argentina, focused on perform
 📫 Reach me: rodolfo282@gmail.com
 ⚡ Fun fact: I'm bilingual Spanish/Portuguese and fluent in technical English
 🛠️ Tech Stack
-Backend
- Node.js 
-
- Express 
-
- NestJS 
-
- Python 
-
- Laravel 
-
- C# 
-Frontend
- Angular 
-
- Vue.js 
-
- React 
-
- TypeScript 
-
- JavaScript 
-Databases
- PostgreSQL 
-
- MySQL 
-
- MongoDB 
-
- Redis 
-
- SQL Server 
-DevOps & Tools
- Docker 
-
- Git 
-
- GitHub Actions 
-
- Linux 
-
- Nginx 
+Backend: Node.js · Express · NestJS · Python · Laravel · C# · REST APIs · GraphQL · WebSockets
+Frontend: Angular · Vue.js · React · TypeScript · JavaScript · HTML5 · CSS3 · SASS · Bootstrap · Tailwind CSS
+Databases: PostgreSQL · MySQL · MongoDB · Redis · SQL Server · Oracle · Firebase
+DevOps & Tools: Docker · Git · GitHub Actions · CI/CD · Jira · Confluence · Linux · Nginx
 📌 Featured Projects
 🔧 node-api-template
 Production-ready Node.js REST API with TypeScript, Express, Docker, and CI/CD.
